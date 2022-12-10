@@ -2,7 +2,7 @@
 /**
  * Write a description of class StackTester here.
  *
- * @author (your name)
+ * @keil barracliffe @jeffrey ackah
  * @version (a version number or a date)
  */
 import java.util.Stack;

@@ -2,7 +2,7 @@
 /**
  * Write a description of class StackCopy here.
  *
- * @Keilbarracliffe
+ * @Keilbarracliffe @jeffrey ackah
  * @11/20/22
  */
 import java.util.Stack;
@@ -11,11 +11,11 @@ public class StackCopy<E>
     private E element;
     // instance variables - replace the example below with your own
     /**
-	 * Make an identical copy of a Stack.
-	 * post-condition: s is the same as it was before the method was called.
-	 * @param s The Stack to copy.
-	 * @return An identical copy of the Stack s.
-	 */
+     * Make an identical copy of a Stack.
+     * post-condition: s is the same as it was before the method was called.
+     * @param s The Stack to copy.
+     * @return An identical copy of the Stack s.
+     */
     
     /**
      * Constructor for objects of class StackCopy
@@ -59,7 +59,7 @@ public class StackCopy<E>
     //     of Java's Stack class.  You are allowed to use only the following
     //     methods of Java's Stack class: empty, peek, pop, and push (and also 
     //     the constructor since you will need to construct a couple Stacks).
-		
+        
     // Stack Reverse Copy Algorithm: Assumes the Stack to copy is named s 
     //(as it is in the parameter of this method.
     public <E> Stack<E> reverseCopy(Stack<E> s)
